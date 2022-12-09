@@ -1,5 +1,5 @@
-# SIS_GUI
-Student Information System (NetBeans16)
+#GPA STUDENT 
+Student GPA (NetBeans22)
 ```
-  what you see, what you got SHESH
+  what you see, what you got the problem is my FORMULA IS ERROR?
 ```
